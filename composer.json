@@ -1,8 +1,8 @@
 {
-    "name": "thienhungho/yii2-helper-functions",
-    "description": "Helper functions for Yii2",
+    "name": "thienhungho/yii2-app-core",
+    "description": "Core Pakage",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","functions","helper"],
+    "keywords": ["yii2","extension","core","pakage"],
     "license": "BSD-3-Clause",
     "authors": [
         {
