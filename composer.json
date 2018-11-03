@@ -41,6 +41,7 @@
         "yiisoft/yii2-queue": "^2.1",
         "kartik-v/yii2-grid": "dev-master",
         "thienhungho/yii2-helper-functions": "*",
+        "thienhungho/yii2-mail": "*",
         "thienhungho/yii2-user-management": "*"
     }
 }
