@@ -43,6 +43,7 @@
         "thienhungho/php-constant": "*",
         "thienhungho/yii2-helper-functions": "*",
         "thienhungho/yii2-mail": "*",
+        "thienhungho/yii2-active-query": "*",
         "thienhungho/yii2-media-management": "*",
         "thienhungho/yii2-user-management": "*"
     }
