@@ -42,6 +42,7 @@
         "kartik-v/yii2-grid": "*",
         "thienhungho/php-constant": "*",
         "thienhungho/yii2-helper-functions": "*",
+        "thienhungho/yii2-backend-app-functions": "*",
         "thienhungho/yii2-widgets": "*",
         "thienhungho/yii2-mail": "*",
         "thienhungho/yii2-active-query": "*",
